@@ -1,12 +1,10 @@
 import module as module
 import time
-import pack
 
 from module import pswrd as isPasswordCorrect
 from os import system as system
 from os import remove as remove
 
-pack.pack('ten_math_functions.py')
 system('cls')
 
 def timer(s):
