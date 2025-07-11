@@ -45,6 +45,7 @@ ___
 - Make sure Python is installed and added to your system path.
 - Open a terminal in the project directory.
 - Run the file: `ten_math_functions.py`
+  Password: ```HelloWorld```
 
 ---
 
